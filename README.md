@@ -53,22 +53,27 @@ It is possible to organize the folders better, but it may break some references.
   * Reminder to edit `BounceBack`
 
 # Core papers used
-Q. Li, K. Luo, X. Li. 2013.
-Forcing scheme in pseudopotential lattice Boltzmann model for multiphase flows.
-10.1103/PhysRevE.86.016709
+Q. Li, K. H. Luo, and X. J. Li. 
+Forcing scheme in pseudopotential lattice Boltzmann model for multiphaseflows.
+Physical Review E, 86(1):016709, jul 2012. doi:10.1103/PhysRevE.86.016709.
 
-S. Gong, P. Cheng. 2012. 
+S. Gong and P. Cheng.
 A lattice Boltzmann method for simulation of liquid–vapor phase-change heat transfer.
-10.1016/j.ijheatmasstransfer.2012.04.037
+International Journal of Heat and Mass Transfer, 55(17-18):4923–4927, aug 2012. doi:10.1016/j.ijheatmasstransfer.2012.04.037
 
-Q. Li, P.Zhou, H.Yan. 2017.
-Improved thermal lattice Boltzmann model for simulation of liquid-vapor phase change.
-10.1103/PhysRevE.96.063303
+Q. Li, P. Zhou, and H. J. Yan.
+Improved thermal lattice Boltzmann model for simulation of liquid-vaporphase change.
+Physical Review E, 96(6), 2017. doi:10.1103/PhysRevE.96.063303
 
 ## Relevant papers for MRT collision operator
 
-Q. Li, K. Luo, X. Li. 2013.
-Lattice Boltzmann modeling of multiphase flows at large density ratio with an improved pseudopotential model. 
-10.1103/PhysRevE.87.053301
+Q. Li, K. H. Luo, and X. J. Li.
+Lattice Boltzmann modeling of multiphase flows at large density ratio withan improved pseudopotential model.
+Physical Review E, 87(5):053301, may 2013. doi:10.1103/PhysRevE.87.053301.
 
+## Other interesting papers
+
+Q. Li, Y. Yu, and Z. X. Wen.
+How does boiling occur in lattice Boltzmann simulations?
+093306(May),2020. doi:10.1063/5.0015491.
 
