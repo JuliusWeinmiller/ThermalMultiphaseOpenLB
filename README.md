@@ -27,7 +27,7 @@ The original extension was created for OpenLB v1.3-1.
 It is currently not working in combination with OpenLB v 1.4, but it is being worked on to make sure it functions as well
 
 ## Quick Installation
-1. Drop the folder into the OpenLB base folder
+1. Drop the `phaseChangeExtension` folder into the OpenLB base folder
 2. In the `global.mk` file:
  * add the line `phaseChangeExtension/phaseChangeSource \` to the `SUBDIRS` and `INCLUDEDIRS` 
  * add `-lgsl -lgslcblas` to the `LIBS` after the `-lz`
