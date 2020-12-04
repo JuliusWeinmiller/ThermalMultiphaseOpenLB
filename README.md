@@ -12,7 +12,7 @@ An example usecase is flow boiling in microchannels.
 
 ### Code extensions
 The extension includes:
-* A new forcing algorithm 
+* A new forcing algorithm for pseudopotential method
   * stable simulations high density ratios
   * thermodynamic consistent densities
 * Multiphase thermal coupling DDF
