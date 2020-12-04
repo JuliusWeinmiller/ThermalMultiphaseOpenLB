@@ -1,7 +1,7 @@
 # ThermalMultiphaseOpenLB
 This is an extension for OpenLB which allows for thermal single-component phase change multiphase flow
 
-This extension is created as part of the master thesis of Julius Weinmiller.
+This extension was created by Julius Weinmiller as part of his master thesis.
 The final thesis will be uploaded shortly to TUDelft repository, and once avaliable will be linked here.
 
 ## Features
