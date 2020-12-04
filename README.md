@@ -32,8 +32,8 @@ It is currently not working in combination with OpenLB v 1.4, but it is being wo
  * add the line `phaseChangeExtension/phaseChangeSource \` to the `SUBDIRS` and `INCLUDEDIRS` 
  * add `-lgsl -lgslcblas` to the `LIBS` after the `-lz`
 3. One small change needs to be made in the file `src/dynamics/dynamics.h`
-  * Navigate to the class `BounceBack` (line 652)
-  * Change `private` to `protected`
+  * Navigate to the class `BounceBack` (line 651)
+  * Change `private` to `protected` (line 701)
 4. Compile and run the examples to make sure everything works
   * Do not forget to change `BUILDTYPE` to `generic` in `config.mk`
 
