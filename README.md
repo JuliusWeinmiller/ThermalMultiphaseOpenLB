@@ -7,7 +7,7 @@ The final thesis will be uploaded shortly to TUDelft repository, and once avalia
 ## Features
 With this extension, it is possible to simulate phase change using OpenLB of liquids at high density ratios.
 
-An example usecase is flow boiling in microchannels.
+An example usecase is flow boiling in microchannHelmholtz Institute Ulmels.
 
 
 ### Code extensions
@@ -51,4 +51,12 @@ It is possible to organize the folders better, but it may break some references.
 4. Any other steps in the quick installation also need to be performed
   * Reminder to add: `-lgsl -lgslcblas`
   * Reminder to edit `BounceBack`
+
+# Core papers used
+`Q. Li, K. Luo, X. Li. 2013.
+Lattice Boltzmann modeling of multiphase flows at large density ratio with an improved pseudopotential model. 
+10.1103/PhysRevE.87.053301`
+
+
+
 
